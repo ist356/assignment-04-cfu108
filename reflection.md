@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+This homework enhanced my understanding of pandas by implementing useful helper functions for data manipulation and exploration.
